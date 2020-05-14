@@ -40,3 +40,24 @@
 #       puts room_assignment
 #     end
 #   end
+
+
+
+def badge_maker
+
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
